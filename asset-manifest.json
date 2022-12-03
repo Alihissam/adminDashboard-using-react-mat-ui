@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/adminDashboard-using-react-mat-ui/static/css/main.2e233646.css",
+    "main.js": "/adminDashboard-using-react-mat-ui/static/js/main.a161a27c.js",
+    "static/js/787.f587e8d5.chunk.js": "/adminDashboard-using-react-mat-ui/static/js/787.f587e8d5.chunk.js",
+    "static/media/hissam.jpg": "/adminDashboard-using-react-mat-ui/static/media/hissam.5f23ac2a69b4056c35bd.jpg",
+    "static/media/ali.jpg": "/adminDashboard-using-react-mat-ui/static/media/ali.4443f54d32efd4a91569.jpg",
+    "index.html": "/adminDashboard-using-react-mat-ui/index.html",
+    "main.2e233646.css.map": "/adminDashboard-using-react-mat-ui/static/css/main.2e233646.css.map",
+    "main.a161a27c.js.map": "/adminDashboard-using-react-mat-ui/static/js/main.a161a27c.js.map",
+    "787.f587e8d5.chunk.js.map": "/adminDashboard-using-react-mat-ui/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e233646.css",
+    "static/js/main.a161a27c.js"
+  ]
+}
