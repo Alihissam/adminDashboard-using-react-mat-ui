@@ -1,0 +1,57 @@
+.top_section{
+    width: 100%;
+    height: 50px;
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    /* box-shadow: 0px 0px 4px .1px rgb(70, 70, 70); */
+}
+.top_section_wrapper{
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    align-items: center;
+}
+.logo{
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(0, 0, 54);
+}
+.top_section_right{
+    display: flex !important;
+    gap: .5rem;
+    align-items: center;
+}
+.icon_container{
+    position: relative;
+    cursor: pointer;
+}
+.notification_icon{
+    font-size: 24px;
+    text-align: center;
+    align-items: center;
+    color: #565656;
+}
+.topiconbadge{
+    position: absolute;
+    background-color: red;
+    top: -5px;
+    right: -2px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: #fff;
+    font-size: 11px;
+}
+.avatar_pick{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+}
